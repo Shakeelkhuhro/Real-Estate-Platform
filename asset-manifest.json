@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Real-Estate-Platform/static/css/main.f7d07c80.css",
-    "main.js": "/Real-Estate-Platform/static/js/main.fcb9d777.js",
+    "main.js": "/Real-Estate-Platform/static/js/main.e9fdfc57.js",
     "static/media/logo.png": "/Real-Estate-Platform/static/media/logo.522f6acb6f5b547cf1fd.png",
     "static/media/agent4.png": "/Real-Estate-Platform/static/media/agent4.1914dc7e707a9e97df37.png",
     "static/media/p3.png": "/Real-Estate-Platform/static/media/p3.2526b178668c1b2fe4c4.png",
@@ -17,10 +17,10 @@
     "static/media/realEstate.png": "/Real-Estate-Platform/static/media/realEstate.40691fb1565cffffa3f0.png",
     "index.html": "/Real-Estate-Platform/index.html",
     "main.f7d07c80.css.map": "/Real-Estate-Platform/static/css/main.f7d07c80.css.map",
-    "main.fcb9d777.js.map": "/Real-Estate-Platform/static/js/main.fcb9d777.js.map"
+    "main.e9fdfc57.js.map": "/Real-Estate-Platform/static/js/main.e9fdfc57.js.map"
   },
   "entrypoints": [
     "static/css/main.f7d07c80.css",
-    "static/js/main.fcb9d777.js"
+    "static/js/main.e9fdfc57.js"
   ]
 }
