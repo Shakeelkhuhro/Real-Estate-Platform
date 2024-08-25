@@ -81,7 +81,7 @@ src/
 │   ├── PropertyListings.js   # Component to list multiple properties
 │   ├── ScrollToTopButton.js  # Scroll-to-top button component
 │   ├── Testimonials.js       # Component to display testimonials
-│   └── ...                   # Other shared components
+│   └── ...                   # Other components ...
 │
 ├── pages/
 │   ├── HomePage.js           # The main landing page
