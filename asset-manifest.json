@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/real-estate-platform/static/css/main.f7d07c80.css",
-    "main.js": "/real-estate-platform/static/js/main.d3d5a570.js",
-    "static/media/logo.png": "/real-estate-platform/static/media/logo.522f6acb6f5b547cf1fd.png",
-    "static/media/agent4.png": "/real-estate-platform/static/media/agent4.1914dc7e707a9e97df37.png",
-    "static/media/p3.png": "/real-estate-platform/static/media/p3.2526b178668c1b2fe4c4.png",
-    "static/media/p5.png": "/real-estate-platform/static/media/p5.c5d5bd5e2f9a95029d70.png",
-    "static/media/p1.png": "/real-estate-platform/static/media/p1.edab9ce3c72d2e6cf4a3.png",
-    "static/media/p6.png": "/real-estate-platform/static/media/p6.1c715096925e44639aeb.png",
-    "static/media/p2.png": "/real-estate-platform/static/media/p2.cf4d43bfc0731be9784d.png",
-    "static/media/agent2.png": "/real-estate-platform/static/media/agent2.d4e51c027e2aeb893dbd.png",
-    "static/media/agent1.png": "/real-estate-platform/static/media/agent1.134927c97443d27177ac.png",
-    "static/media/agent5.png": "/real-estate-platform/static/media/agent5.b8c66c01d074192c116d.png",
-    "static/media/p4.png": "/real-estate-platform/static/media/p4.e813b9e691790f3ce541.png",
-    "static/media/agent3.png": "/real-estate-platform/static/media/agent3.2c71f5d54944a20b97fd.png",
-    "static/media/realEstate.png": "/real-estate-platform/static/media/realEstate.40691fb1565cffffa3f0.png",
-    "index.html": "/real-estate-platform/index.html",
-    "main.f7d07c80.css.map": "/real-estate-platform/static/css/main.f7d07c80.css.map",
-    "main.d3d5a570.js.map": "/real-estate-platform/static/js/main.d3d5a570.js.map"
+    "main.css": "/Real-Estate-Platform/static/css/main.f7d07c80.css",
+    "main.js": "/Real-Estate-Platform/static/js/main.fcb9d777.js",
+    "static/media/logo.png": "/Real-Estate-Platform/static/media/logo.522f6acb6f5b547cf1fd.png",
+    "static/media/agent4.png": "/Real-Estate-Platform/static/media/agent4.1914dc7e707a9e97df37.png",
+    "static/media/p3.png": "/Real-Estate-Platform/static/media/p3.2526b178668c1b2fe4c4.png",
+    "static/media/p5.png": "/Real-Estate-Platform/static/media/p5.c5d5bd5e2f9a95029d70.png",
+    "static/media/p1.png": "/Real-Estate-Platform/static/media/p1.edab9ce3c72d2e6cf4a3.png",
+    "static/media/p6.png": "/Real-Estate-Platform/static/media/p6.1c715096925e44639aeb.png",
+    "static/media/p2.png": "/Real-Estate-Platform/static/media/p2.cf4d43bfc0731be9784d.png",
+    "static/media/agent2.png": "/Real-Estate-Platform/static/media/agent2.d4e51c027e2aeb893dbd.png",
+    "static/media/agent1.png": "/Real-Estate-Platform/static/media/agent1.134927c97443d27177ac.png",
+    "static/media/agent5.png": "/Real-Estate-Platform/static/media/agent5.b8c66c01d074192c116d.png",
+    "static/media/p4.png": "/Real-Estate-Platform/static/media/p4.e813b9e691790f3ce541.png",
+    "static/media/agent3.png": "/Real-Estate-Platform/static/media/agent3.2c71f5d54944a20b97fd.png",
+    "static/media/realEstate.png": "/Real-Estate-Platform/static/media/realEstate.40691fb1565cffffa3f0.png",
+    "index.html": "/Real-Estate-Platform/index.html",
+    "main.f7d07c80.css.map": "/Real-Estate-Platform/static/css/main.f7d07c80.css.map",
+    "main.fcb9d777.js.map": "/Real-Estate-Platform/static/js/main.fcb9d777.js.map"
   },
   "entrypoints": [
     "static/css/main.f7d07c80.css",
-    "static/js/main.d3d5a570.js"
+    "static/js/main.fcb9d777.js"
   ]
 }
