@@ -1,0 +1,19 @@
+/* responsive.css */
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+    nav ul {
+      flex-direction: column;
+    }
+  
+    .property-card {
+      width: 100%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    header img {
+      max-width: 100px;
+    }
+  }
+  

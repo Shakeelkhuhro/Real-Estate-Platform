@@ -1,0 +1,22 @@
+.search-results {
+  padding: 40px 20px;
+}
+
+.search-results h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 30px;
+  font-weight: 700;
+}
+
+.search-results .property-listings {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.search-results p {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #666;
+}
