@@ -11,8 +11,14 @@
     font-size: 3rem;
     margin-bottom: 10px;
   }
+
+  /*there is no person in world*/
   
   .home .hero p {
     font-size: 1.5rem;
+    align-self: auto;
+    text-align: center;
+    flex-direction: 100px;
+    
   }
   
