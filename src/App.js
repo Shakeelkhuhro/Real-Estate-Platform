@@ -22,3 +22,4 @@ const App = () => {
 };
 
 export default App;
+// its javascript code , so be aware
