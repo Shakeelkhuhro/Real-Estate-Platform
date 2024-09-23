@@ -18,3 +18,5 @@ const HomePage = ({ heroImage, heroTitle, heroSubtitle, listings, testimonials }
 );
 
 export default HomePage;
+
+// Reporisrity
